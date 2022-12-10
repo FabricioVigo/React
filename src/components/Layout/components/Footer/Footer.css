@@ -1,0 +1,13 @@
+.footer__container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #414141;
+  padding: 40px;
+}
+.author{
+  color:#fff;
+}
+.copyright{
+  color: #fff;
+}

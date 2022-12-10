@@ -1,0 +1,20 @@
+.about-me__container {
+  display: flex;
+  flex-direction: column;
+  gap: 2rem;
+}
+
+.title {
+  text-align: left;
+  font-weight: bold;
+  font-size: 2rem;
+}
+
+.links {
+  display: flex;
+  gap: 1.5rem;
+  background-color: #E8EFED;
+  justify-content: space-around;
+  align-items: center;
+  padding: 20px
+}

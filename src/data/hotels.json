@@ -1,0 +1,17 @@
+[
+    {
+      "id": "prj_id_1",
+      "name": "Hotel Costa del Sol",
+      "img": "../images/costaDelSol.jpg"
+    },
+    {
+      "id": "prj_id_2",
+      "name": "Hotel Flora y Fauna",
+      "img": "../images/hotelEntreRios.jpg"
+    },
+    {
+      "id": "prj_id_3",
+      "name": "Hotel Patagonia Antares",
+      "img": "../images/hotelPatagonia.jpg"
+    }
+  ]
